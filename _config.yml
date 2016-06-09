@@ -1,29 +1,41 @@
-name: Mathew Slavica
-favicon: null
-layout_spectrum: 0.5159692328888923
-typography_spectrum: 0.22324736090376973
 title: Mathew Slavica
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2512729540467262
+  brandStrength: 0.3368231251370162
+  rhythmicContrast: 0.6210135561414063
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3368231251370162
   lightness: 0.81996671971865
-  saturation: 0.2512729540467262
-  rhythmicContrast: 0.6210135561414063
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mathew Slavica
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8878446
+layout_spectrum: 0.6453634
